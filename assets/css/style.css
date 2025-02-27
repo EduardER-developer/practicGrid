@@ -19,7 +19,7 @@ body {
    display: grid;
    grid-template-columns: auto auto 140px;
    align-items: center;
-   background-color: #808080;
+   background-color: #79ffff;
    padding: 15px 20px;
    gap: 20px;
 }
